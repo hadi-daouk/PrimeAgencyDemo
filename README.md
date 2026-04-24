@@ -74,6 +74,30 @@ cp .env.example .env
 
 Document required variables in `.env.example`.
 
+## Screenshots
+
+These screenshots were captured from the PrimeAgency pages and user flows.
+
+### Public Pages
+
+![Home page](screenshots/index.png)
+![Directory page](screenshots/directory.png)
+![Opportunities page](screenshots/opportunities.png)
+![Applicants page](screenshots/applicants.png)
+![Labels page](screenshots/labels.png)
+![Schedule page](screenshots/schedule.png)
+![Schedule search](screenshots/scheduleSearch.png)
+![Empty schedule state](screenshots/scheduleEmpty.png)
+
+### Registered User Views
+
+![Home page (registered)](screenshots/indexRegistered.png)
+![Directory page (registered)](screenshots/directoryRegistered.png)
+![Opportunities page (registered)](screenshots/opportunitiesRegistered.png)
+![Post opportunity (registered)](screenshots/postopportunityRegistered.png)
+![Labels page (registered)](screenshots/labelsRegistered.png)
+![Schedule page (registered)](screenshots/scheduleRegistered.png)
+
 ## Roadmap
 
 - [ ] Initialize application scaffold
